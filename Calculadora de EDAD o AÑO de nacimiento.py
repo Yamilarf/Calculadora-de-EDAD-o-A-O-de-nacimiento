@@ -14,7 +14,7 @@ def restar():
 # titulo, tamaño, y color de la ventana
 ventana= tk.Tk()
 ventana.geometry("600x300")
-ventana.title ("CALCULA EN QUE AÑO NACIO TU ABUELO/A O CUANTOS VA A CUMPLIR")
+ventana.title ("CALCULA EN QUE AÑO QUE NACIO TU ABUELO/A O CUANTOS VA A CUMPLIR")
 ventana.configure(bg="yellow")
 
 #etiqueta asignada a la primera caja de texto
